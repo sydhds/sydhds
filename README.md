@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sydhds (Sylvain)
-- 👀 I’m interested in Python, Rust and HTMX/Alpine.js 
-- 🌱 I’m currently learning Wasm ;)
+- 👀 I’m software engineer at MassaLabs doing Rust, Python and AssemblyScript (WASM).
 - 💞️ I’m looking to collaborate on a open source and fun Rust project.
 - 📫 How to reach me: sydhds _at__ gmail.com 
 
